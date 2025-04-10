@@ -164,18 +164,41 @@ In the context of **SAP Business AI**, Large Language Models (LLMs) bring signif
 
 ## 2. Describing SAP's Generative AI Strategy
 
-### LLMs in SAP AI Core
+### 2.1 LLMs in SAP AI Core
 
-- With these models, the SAP AI Core can perform tasks such as drafting e-mails, writing code, creating written content, translating languages, and much more. They enable users to generate coherent, contextually appropriate sentences and paragraphs in response to a given prompt.
+- SAP AI Core integrates Large Language Models (LLMs) to perform tasks such as:
+  - Drafting emails
+  - Writing code
+  - Creating written content
+  - Translating languages
+  - Generating coherent and contextually appropriate text in response to prompts
 
-- The SAP AI Core models can be trained, enabling them ot learn and improve over time on custom data
+- Models within SAP AI Core can be **trained on custom data**, allowing them to **learn, adapt, and improve** over time based on specific enterprise needs.
 
-- In the context of Generative AI Hub, these models are typically used in SaaS setup. The models can be trained and hosted into the cloud and integrated directly into the applications, products or services
+- In the **SAP Generative AI Hub** context:
+  - These models are typically deployed in a **Software-as-a-Service (SaaS)** setup.
+  - Models are **trained and hosted in the cloud**, then integrated **directly into SAP applications, products, or services**.
 
-### SAP Business AI Approach
+---
 
-- SAP Business AI Approach provide business proess specific AI services
+### 2.2 SAP Business AI Approach
 
-- Most use scenarios: Business Document Processing, Data Attribute Recommendation or Robotic Process Automation
+- **SAP Business AI** focuses on providing **business process-specific AI services**, designed to tightly integrate with SAP's enterprise ecosystem.
 
-- Embedded AI Capacilities with access directly to business data
+- Common use cases include:
+  - **Business Document Processing** (e.g., extracting information from invoices, contracts)
+  - **Data Attribute Recommendation** (e.g., suggesting product attributes in master data)
+  - **Robotic Process Automation (RPA)** (e.g., automating repetitive tasks across systems)
+
+- **Embedded AI capabilities** allow direct access to **real business data** stored in SAP systems, ensuring accuracy, relevance, and security.
+
+- SAP Business AI also enables customers to **create custom AI models** trained on their **own SAP business data**, tailored to unique business requirements.
+
+---
+
+### Summary:
+
+- SAP’s Generative AI strategy leverages LLMs within **SAP AI Core** for broad content generation tasks.
+- **SAP Business AI** focuses on **embedded, business-specific AI services**, ensuring deep integration with SAP business processes and data.
+
+---
