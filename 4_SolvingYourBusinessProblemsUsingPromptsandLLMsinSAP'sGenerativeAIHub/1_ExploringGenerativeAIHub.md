@@ -106,7 +106,7 @@ Multi - Tenancy     Grounding                                           Customer
 
 ## Deploy an AI Model
 
-1. Provisioning SAP AI Core 
+1. Provisioning SAP AI Core
 
 2. Check for Foundation models Scenarios
 

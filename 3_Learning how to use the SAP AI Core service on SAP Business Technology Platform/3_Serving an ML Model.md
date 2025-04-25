@@ -1,4 +1,4 @@
-# 10. Serving an ML Model with SAP AI Core
+# Serving an ML Model with SAP AI Core
 
 ---
 
@@ -6,7 +6,7 @@ Once a machine learning model is trained and validated, the next step is to make
 
 ---
 
-## 10.1 What Is Model Serving?
+## What Is Model Serving?
 
 - **Model Serving (or Inferencing)** refers to:
   - **Deploying a trained model** as an API service.
@@ -17,7 +17,7 @@ Once a machine learning model is trained and validated, the next step is to make
 
 ---
 
-## 10.2 Model Deployment in SAP AI Core
+## Model Deployment in SAP AI Core
 
 After training, SAP AI Core allows you to **deploy the model** by:
 
@@ -33,7 +33,7 @@ Once deployed, SAP AI Core exposes an **HTTP(S) endpoint** to:
 
 ---
 
-## 10.3 Kubernetes Scaling for Inference
+## Kubernetes Scaling for Inference
 
 SAP AI Core uses **Kubernetes** behind the scenes to deploy and scale model serving jobs:
 
